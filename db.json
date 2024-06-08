@@ -1,0 +1,34 @@
+{
+  "Film": [
+    {
+      "id": "1",
+      "filmName": "Tên phim 1",
+      "duration": "Thời lượng 1",
+      "releaseDate": "Ngày công chiếu 1",
+      "genre": "Thể loại 1",
+      "national": "Quốc gia 1",
+      "description": "Mô tả phim 1",
+      "image": "https://vnpay.vn/s1/statics.vnpay.vn/2023/9/0nek21rmr3wo1694335284660.jpg"
+    },
+    {
+      "id": "2",
+      "filmName": "Tên phim 2",
+      "duration": "Thời lượng 2",
+      "releaseDate": "Ngày công chiếu 2",
+      "genre": "Thể loại 2",
+      "national": "Quốc gia 2",
+      "description": "Mô tả phim 2",
+      "image": "https://vnpay.vn/s1/statics.vnpay.vn/2023/9/0nek21rmr3wo1694335284660.jpg"
+    },
+    {
+      "description": "minh",
+      "duration": 2,
+      "id": "0668",
+      "filmName": "minh",
+      "genre": "minh",
+      "image": "https://vnpay.vn/s1/statics.vnpay.vn/2023/9/0nek21rmr3wo1694335284660.jpg",
+      "national": "minh",
+      "releaseDate": "22/02/2024"
+    }
+  ]
+}
